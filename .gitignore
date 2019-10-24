@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+__pycache__/
+dogImages/
+lfw/
+tests/
+model_scratch.pt
+model_transfer.pt
